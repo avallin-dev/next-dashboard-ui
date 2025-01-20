@@ -5,49 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b80ab5c-b31f-4eb8-a448-29fce5a5db95" name="Changes" comment="add Lists Layout">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/(dashboard)/admin/FinanceCharts.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/(dashboard)/list/classes/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/(dashboard)/list/lessons/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/(dashboard)/list/parents/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/(dashboard)/list/students/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/(dashboard)/list/subjects/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/(dashboard)/list/teachers/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Annoucements.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/AttendanceChart.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/BigCalendar.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/CountChart.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/EventCalendar.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Pagination.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Table.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/TableSearch.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UserCard.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/discord.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/next-dashboard-ui.iml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/(dashboard)/list/announcements/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/(dashboard)/list/assignments/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/(dashboard)/list/events/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/(dashboard)/list/exams/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/(dashboard)/list/results/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/(dashboard)/list/teachers/[id]/page.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.snapshots/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/.snapshots/config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.snapshots/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/.snapshots/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.snapshots/sponsors.md" beforeDir="false" afterPath="$PROJECT_DIR$/.snapshots/sponsors.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/next.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/(dashboard)/admin/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(dashboard)/admin/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/(dashboard)/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(dashboard)/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/(dashboard)/parent/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(dashboard)/parent/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/(dashboard)/student/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(dashboard)/student/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/(dashboard)/teacher/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(dashboard)/teacher/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/globals.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Menu.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Menu.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Navbar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(dashboard)/list/classes/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(dashboard)/list/classes/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(dashboard)/list/lessons/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(dashboard)/list/lessons/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(dashboard)/list/parents/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(dashboard)/list/parents/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(dashboard)/list/subjects/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(dashboard)/list/subjects/page.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lib/data.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/data.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tailwind.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +34,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "avallin-dev"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/avallin-dev/next-dashboard-ui.git",
+    "accountId": "762ef266-c732-47ea-8eef-2d35cbe5b1ae"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -75,25 +57,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;app.teamhub.selectedTeam&quot;: &quot;github.com/avallin-dev/next-dashboard-ui&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;starter&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;npm.dev.executor&quot;: &quot;Run&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\darkmatter\\Desktop\\pro\\iglesia\\app\\node_modules\\typescript\\lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "app.teamhub.selectedTeam": "github.com/avallin-dev/next-dashboard-ui",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "starter",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "npm.dev.executor": "Run",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "C:\\Users\\darkmatter\\Desktop\\pro\\iglesia\\app\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="ReactDesignerToolWindowState">
     <option name="myId2Visible">
       <map>
@@ -154,8 +136,17 @@
       <workItem from="1737215896215" duration="13186000" />
       <workItem from="1737239971857" duration="12566000" />
       <workItem from="1737267337971" duration="1225000" />
-      <workItem from="1737296171897" duration="8747000" />
+      <workItem from="1737296171897" duration="20437000" />
     </task>
+    <task id="LOCAL-00001" summary="add Lists Layout">
+      <option name="closed" value="true" />
+      <created>1737314077629</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737314077629</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

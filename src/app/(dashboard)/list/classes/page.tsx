@@ -23,7 +23,7 @@ const columns = [
     }, {
         header: "Grade", accessor: "grade", className: "hidden md:table-cell"
     }, {
-        header: "Supervisor", accessor: "phone", className: "hidden lg:table-cell"
+        header: "Supervisor", accessor: "supervisor", className: "hidden lg:table-cell"
     }, {
         header: "Action", accessor: "action"
     }
@@ -41,9 +41,9 @@ const ClassListPage = () => {
             <td className="hidden lg:table-cell">{item.supervisor}</td>
             <td>
                 <div className="flex items-center gap-2">
-                    <Link href={`/src/app/(dashboard)/list/lessons/page.tsx/${item.id}`}>
+                    <Link href={`/src/app/(dashboard)/list/classes/page.tsx/${item.id}`}>
                         <button className="w-7 h-7 flex items-center justify-center rounded-full bg-lamaSky">
-                            <Image src="/view.png" alt="" width={16} height={16}/>
+                            <Image src="/edit.png" alt="" width={16} height={16}/>
                         </button>
                     </Link>
                     {role === 'admin' && (
