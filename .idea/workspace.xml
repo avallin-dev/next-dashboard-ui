@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b80ab5c-b31f-4eb8-a448-29fce5a5db95" name="Changes" comment="add Lists Layout">
+    <list default="true" id="4b80ab5c-b31f-4eb8-a448-29fce5a5db95" name="Changes" comment="add Teacher page left side">
+      <change afterPath="$PROJECT_DIR$/src/components/Perfomance.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/(dashboard)/list/teachers/[id]/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(dashboard)/list/teachers/[id]/page.tsx" afterDir="false" />
     </list>
@@ -128,7 +129,8 @@
       <workItem from="1737296171897" duration="21374000" />
       <workItem from="1737398649423" duration="14000" />
       <workItem from="1737420617266" duration="3158000" />
-      <workItem from="1737423823544" duration="2617000" />
+      <workItem from="1737423823544" duration="3359000" />
+      <workItem from="1737434860854" duration="2312000" />
     </task>
     <task id="LOCAL-00001" summary="add Lists Layout">
       <option name="closed" value="true" />
@@ -146,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737347472514</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add Teacher page left side">
+      <option name="closed" value="true" />
+      <created>1737426525680</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1737426525680</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,6 +164,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add Lists Layout" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Lists Layout" />
+    <MESSAGE value="add Teacher page left side" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Teacher page left side" />
   </component>
 </project>
