@@ -1,10 +1,10 @@
 'use client';
-import { PieChart, Pie, Sector, Cell, ResponsiveContainer } from 'recharts';
+import {Pie, PieChart, ResponsiveContainer} from 'recharts';
 import Image from 'next/image';
 
 const data = [
-    { name: 'Group A', value: 92, fill: '#8884d8' },
-    { name: 'Group B', value:  8, fill: '#82ca9d' },
+    {name: 'Group A', value: 92, fill: '#8884d8'},
+    {name: 'Group B', value: 8, fill: '#82ca9d'},
 ];
 
 
@@ -33,7 +33,8 @@ const Perfomance = () => {
                 <h1 className="text-3xl font-bold">9.2</h1>
                 <p className="text-xs text-gray-300">of 10 max LTS</p>
             </div>
-            <h2 className="font-medium absolute bottom-16 left-0 right-0 m-auto text-center"> 1st Semester - 2nd Semester </h2>
+            <h2 className="font-medium absolute bottom-16 left-0 right-0 m-auto text-center"> 1st Semester - 2nd
+                Semester </h2>
         </div>
     )
 }
